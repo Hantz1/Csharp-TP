@@ -6,7 +6,8 @@ namespace Exo_csharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var nom="Jeff";
+            Console.WriteLine("Le nom du devloppeur est: "+nom);
         }
     }
 }
